@@ -39,7 +39,8 @@ function itemCheckNumber() {
 
 
 
-window.addEventListener("load", function() {
+window.addEventListener("load", function(event) {
+  
   window.alert("All fields are required");
   event.preventDefault();
  

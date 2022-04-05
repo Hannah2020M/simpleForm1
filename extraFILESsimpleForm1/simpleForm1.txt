@@ -2,6 +2,9 @@
 
 simpleForm1
 stored in C:\Users\h19sl\Documents\Git-Exercises\gradedAsgnmntLC2022\simpleForm1\extraFILESsimpleForm1
+TOKEN for jetbrains to access my HannahM2020 github repos 8:32 PM 4/4/2022
+
+
 
 https://stackoverflow.com/questions/2805613/creating-populating-javascript-custom-object
 objectName["new-key"] = propertyValue;
